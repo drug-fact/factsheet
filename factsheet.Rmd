@@ -1,0 +1,26 @@
+---
+title: "Factsheet on Ribociclib plus Fulvestrant in Advanced Breast Cancer"
+#author: "Gabriel Bénédict"
+mail: "gbndict@gmail.com"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+# logo: "images/RTL.jpeg"
+# bibliography: refs.bib
+output: 
+  html_document:
+    # css: markdown_gujdm.css
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme:  paper
+    # code_folding: hide
+    fig_crop: no
+  # epuRate::epurate:
+  #   toc: TRUE
+  #   number_sections: T
+  #   code_folding: "hide"
+---
+
+# survival
+
+blabla
+
